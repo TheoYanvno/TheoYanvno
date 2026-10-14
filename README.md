@@ -8,6 +8,9 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 
 | Project | What it is | Tech |
 |---|---|---|
+| [Bonfire Notes](https://github.com/TheoYanvno/bonfire-notes) | Dark Souls fan blog generated from Markdown by a Python static site generator | Python · Jinja · Markdown |
+| [Task Calendar](https://github.com/TheoYanvno/task-calendar) | To-do list and month calendar with repeating tasks, drag-to-reschedule and .ics export | JavaScript |
+| [Quote & Joke Generator](https://github.com/TheoYanvno/quote-and-joke-generator) | Quotes and jokes with categories, a daily pick and favorites | JavaScript |
 | [SuperBook](https://github.com/TheoYanvno/SuperBook) | Read the Tanakh, Bible and Qur'an and ask how they differ; answers are written in the sand | JavaScript · Canvas · REST APIs |
 | [Chess Coach](https://github.com/TheoYanvno/chess-coach) | Chess against an AI that grades every move and explains mistakes | JavaScript · Web Workers |
 | [Marvel Character Database](https://github.com/TheoYanvno/marvel-character-database) | Searchable character database with a relational schema and animated profiles | Python · Flask · SQL |
