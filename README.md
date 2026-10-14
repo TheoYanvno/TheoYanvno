@@ -8,6 +8,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 
 | Project | What it is | Tech |
 |---|---|---|
+| [Marvel Character Database](https://github.com/TheoYanvno/marvel-character-database) | Searchable character database with a relational schema and animated profiles | Python · Flask · SQL |
 | [Clinic Appointment Tracker](https://github.com/TheoYanvno/clinic-appointment-tracker) | Full stack scheduling app with a relational schema, reporting queries and tests | SQL · Node.js · JavaScript |
 | [Star Wars REST API](https://github.com/TheoYanvno/StarWars_Rest) | REST API with SQLAlchemy models, relationships and migrations | Python · Flask · PostgreSQL |
 | [Star Wars Blog](https://github.com/TheoYanvno/Star_Wars_Blog) | Single-page app consuming a public API, with routing and a global store | React · Context API |
