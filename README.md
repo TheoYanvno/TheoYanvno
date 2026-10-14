@@ -9,7 +9,6 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 | Project | What it is | Tech |
 |---|---|---|
 | [Bonfire Notes](https://github.com/TheoYanvno/bonfire-notes) | Dark Souls fan blog generated from Markdown by a Python static site generator | Python · Jinja · Markdown |
-| [Task Calendar](https://github.com/TheoYanvno/task-calendar) | To-do list and month calendar with repeating tasks, drag-to-reschedule and .ics export | JavaScript |
 | [Quote & Joke Generator](https://github.com/TheoYanvno/quote-and-joke-generator) | Quotes and jokes with categories, a daily pick and favorites | JavaScript |
 | [SuperBook](https://github.com/TheoYanvno/SuperBook) | Read the Tanakh, Bible and Qur'an and ask how they differ; answers are written in the sand | JavaScript · Canvas · REST APIs |
 | [Chess Coach](https://github.com/TheoYanvno/chess-coach) | Chess against an AI that grades every move and explains mistakes | JavaScript · Web Workers |
@@ -17,7 +16,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 | [Clinic Appointment Tracker](https://github.com/TheoYanvno/clinic-appointment-tracker) | Full stack scheduling app with a relational schema, reporting queries and tests | SQL · Node.js · JavaScript |
 | [Star Wars REST API](https://github.com/TheoYanvno/StarWars_Rest) | REST API with SQLAlchemy models, relationships and migrations | Python · Flask · PostgreSQL |
 | [Star Wars Blog](https://github.com/TheoYanvno/Star_Wars_Blog) | Single-page app consuming a public API, with routing and a global store | React · Context API |
-| [To-Do List with REST API](https://github.com/TheoYanvno/TodoList-React-API) | React to-do list that syncs with a remote API | React hooks · Fetch |
+| [Task Calendar](https://github.com/TheoYanvno/task-calendar) | To-do list and month calendar with repeating tasks, drag-to-reschedule and .ics export | JavaScript |
 | [Family Static API](https://github.com/TheoYanvno/Family-APi) | Flask API backed by a custom Python class | Python · Flask · OOP |
 
 ## Connect
