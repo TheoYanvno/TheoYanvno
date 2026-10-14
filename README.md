@@ -8,6 +8,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 
 | Project | What it is | Tech |
 |---|---|---|
+| [Chess Coach](https://github.com/TheoYanvno/chess-coach) | Chess against an AI that grades every move and explains mistakes | JavaScript · Web Workers |
 | [Marvel Character Database](https://github.com/TheoYanvno/marvel-character-database) | Searchable character database with a relational schema and animated profiles | Python · Flask · SQL |
 | [Clinic Appointment Tracker](https://github.com/TheoYanvno/clinic-appointment-tracker) | Full stack scheduling app with a relational schema, reporting queries and tests | SQL · Node.js · JavaScript |
 | [Star Wars REST API](https://github.com/TheoYanvno/StarWars_Rest) | REST API with SQLAlchemy models, relationships and migrations | Python · Flask · PostgreSQL |
