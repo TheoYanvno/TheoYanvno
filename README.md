@@ -8,6 +8,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 
 | Project | What it is | Tech | Demo |
 |---|---|---|---|
+| [Live Code Editor](https://github.com/TheoYanvno/live-code-editor) | HTML, CSS and JS editor with a live sandboxed preview, console and shareable links | JavaScript · iframes · postMessage | [Live](https://theoyanvno.github.io/live-code-editor/) |
 | [Gotham Hospital Patient Portal](https://github.com/TheoYanvno/clinic-appointment-tracker) | Clinic scheduling and patient records: 36 providers, day/week/month schedules, insurance, photo and document uploads | SQL · Node.js · JavaScript | [Live](https://theoyanvno.github.io/clinic-appointment-tracker/) |
 | [Marvel Character Database](https://github.com/TheoYanvno/marvel-character-database) | 47 heroes, villains and antiheroes with a relational schema and animated profiles | Python · Flask · SQL | [Live](https://theoyanvno.github.io/marvel-character-database/) |
 | [Snake](https://github.com/TheoYanvno/snake-game) | Classic Snake with swipe controls, speed levels, a no-walls mode and best scores | JavaScript · Canvas | [Play](https://theoyanvno.github.io/snake-game/) |
