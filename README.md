@@ -8,6 +8,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 
 | Project | What it is | Tech | Demo |
 |---|---|---|---|
+| [Sticky Notes](https://github.com/TheoYanvno/sticky-notes) | Windows desktop app for sticky notes and tasks: due dates, reminders, pin-on-top notes, tray icon | JavaScript · Electron | [Live](https://theoyanvno.github.io/sticky-notes/) |
 | [Live Code Editor](https://github.com/TheoYanvno/live-code-editor) | HTML, CSS and JS editor with a live sandboxed preview, console and shareable links | JavaScript · iframes · postMessage | [Live](https://theoyanvno.github.io/live-code-editor/) |
 | [Sudoku Solver](https://github.com/TheoYanvno/sudoku-solver) | Solves any puzzle step by step with explanations, and makes new ones with one solution | JavaScript · Algorithms | [Live](https://theoyanvno.github.io/sudoku-solver/) |
 | [Gotham Hospital Patient Portal](https://github.com/TheoYanvno/clinic-appointment-tracker) | Clinic scheduling and patient records: 36 providers, day/week/month schedules, insurance, photo and document uploads | SQL · Node.js · JavaScript | [Live](https://theoyanvno.github.io/clinic-appointment-tracker/) |
