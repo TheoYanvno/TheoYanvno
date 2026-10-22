@@ -9,6 +9,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 | Project | What it is | Tech | Demo |
 |---|---|---|---|
 | [Live Code Editor](https://github.com/TheoYanvno/live-code-editor) | HTML, CSS and JS editor with a live sandboxed preview, console and shareable links | JavaScript · iframes · postMessage | [Live](https://theoyanvno.github.io/live-code-editor/) |
+| [Sudoku Solver](https://github.com/TheoYanvno/sudoku-solver) | Solves any puzzle step by step with explanations, and makes new ones with one solution | JavaScript · Algorithms | [Live](https://theoyanvno.github.io/sudoku-solver/) |
 | [Gotham Hospital Patient Portal](https://github.com/TheoYanvno/clinic-appointment-tracker) | Clinic scheduling and patient records: 36 providers, day/week/month schedules, insurance, photo and document uploads | SQL · Node.js · JavaScript | [Live](https://theoyanvno.github.io/clinic-appointment-tracker/) |
 | [Marvel Character Database](https://github.com/TheoYanvno/marvel-character-database) | 47 heroes, villains and antiheroes with a relational schema and animated profiles | Python · Flask · SQL | [Live](https://theoyanvno.github.io/marvel-character-database/) |
 | [Snake](https://github.com/TheoYanvno/snake-game) | Classic Snake with swipe controls, speed levels, a no-walls mode and best scores | JavaScript · Canvas | [Play](https://theoyanvno.github.io/snake-game/) |
@@ -16,7 +17,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 | [SuperBook](https://github.com/TheoYanvno/SuperBook) | Read the Tanakh, Bible and Qur'an and ask how they differ; answers are written in the sand | JavaScript · Canvas · REST APIs | [Live](https://theoyanvno.github.io/SuperBook/) |
 | [Task Calendar](https://github.com/TheoYanvno/task-calendar) | To-do list and month calendar with repeating tasks, drag-to-reschedule and .ics export | JavaScript | [Live](https://theoyanvno.github.io/task-calendar/) |
 | [Bonfire Notes](https://github.com/TheoYanvno/bonfire-notes) | Dark Souls fan blog generated from Markdown by a Python static site generator | Python · Jinja · Markdown | [Live](https://theoyanvno.github.io/bonfire-notes/) |
-| [Quote & Joke Generator](https://github.com/TheoYanvno/quote-and-joke-generator) | Quotes and jokes with categories, a daily pick and favorites | JavaScript | [Live](https://theoyanvno.github.io/quote-and-joke-generator/) |
+| [Quote & Joke Generator](https://github.com/TheoYanvno/quote-and-joke-generator) | Quotes and jokes with accounts (Node server with scrypt passwords and cookie sessions) and saved favorites | JavaScript · Node.js · SQL | [Live](https://theoyanvno.github.io/quote-and-joke-generator/) |
 
 ## Connect
 
