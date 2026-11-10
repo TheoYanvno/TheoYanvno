@@ -13,6 +13,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 | [Weatherboard](https://github.com/TheoYanvno/weather-forecast) | Weather dashboard: today's conditions, the next 12 hours and 7 days, a chance-of-rain chart, city search and saved places, from Open-Meteo | React · esbuild · REST APIs | [Live](https://theoyanvno.github.io/weather-forecast/) |
 | [Shipboard](https://github.com/TheoYanvno/dev-task-board) | Task board for developers: Backlog to Done columns with drag and drop, priorities, labels, due dates, and list and calendar views | React · esbuild | [Live](https://theoyanvno.github.io/dev-task-board/) |
 | [Cashflow](https://github.com/TheoYanvno/finance-tracker) | Personal finance tracker: balance, weekly stats chart, a searchable transactions table, spending by category and a spreadsheet-safe CSV export (local only) | React · esbuild | [Live](https://theoyanvno.github.io/finance-tracker/) |
+| [TotalRecall](https://github.com/TheoYanvno/total-recall) | Spaced-repetition flashcards for programming terms: 7 decks and 60 cards, Again/Hard/Good/Easy ratings with SM-2 style scheduling, four study modes including a timed challenge, a progress dashboard with mastery and streaks, and decks you can share as JSON | React · esbuild · Node.js test runner | [Live](https://theoyanvno.github.io/total-recall/) |
 | [Phone Number Lookup](https://github.com/TheoYanvno/phone-number-lookup) | Command-line tool for the public numbering-plan details of a phone number: valid or not, formats, region, line type and time zones, offline, with text, CSV and JSON output | Python · phonenumbers · unittest | [Code](https://github.com/TheoYanvno/phone-number-lookup) |
 | [Sudoku Solver](https://github.com/TheoYanvno/sudoku-solver) | Solves any puzzle step by step with explanations, and makes new ones with one solution | JavaScript · Algorithms | [Live](https://theoyanvno.github.io/sudoku-solver/) |
 | [Gotham Hospital System](https://github.com/TheoYanvno/gotham-hospital-system) | Clinic scheduling and patient records: staff sign-in where the password picks the role (scheduling or patient charts), Bat-Family Records, 36 providers, day/week/month schedules, insurance and uploads | SQL · Node.js · JavaScript | [Live](https://theoyanvno.github.io/gotham-hospital-system/) |
@@ -26,7 +27,7 @@ U.S. Navy veteran (Hospital Corpsman, HM2) and Senior Medical Assistant at Optum
 
 ## Coming soon
 
-- **React:** Pantry (a meal planner by goals, nutrition and allergies) · AbramsTree (a Bible study guide with prayer times and a map of biblical events) · TotalRecall (spaced-repetition flashcards for programming)
+- **React:** Pantry (a meal planner by goals, nutrition and allergies) · AbramsTree (a Bible study guide with prayer times and a map of biblical events)
 - **C# games:** Gates of Sheol · Nehemiah's Watch · Testimony · Wilderness · Legion
 - **Security:** SentinelEDR · NetSentinel · LogWatch · VulnScope · FileShield · AuthGuard · CloudSentinel · SecureCode · IncidentIQ · ThreatIntel
 
